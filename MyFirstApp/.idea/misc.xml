@@ -4,6 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Manuel/AndroidStudioProjects/MyFirstApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Manuel/Documents/SimpleAndroidApps/MyFirstApp/app/src/main/res/drawable/dice_1.xml" value="0.23680781758957656" />
+        <entry key="..\:/Users/Manuel/Documents/SimpleAndroidApps/MyFirstApp/app/src/main/res/drawable/dice_5.xml" value="0.23680781758957656" />
+        <entry key="..\:/Users/Manuel/Documents/SimpleAndroidApps/MyFirstApp/app/src/main/res/drawable/dice_6.xml" value="0.23680781758957656" />
+        <entry key="..\:/Users/Manuel/Documents/SimpleAndroidApps/MyFirstApp/app/src/main/res/drawable/empty_dice.xml" value="0.23680781758957656" />
+        <entry key="..\:/Users/Manuel/Documents/SimpleAndroidApps/MyFirstApp/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>

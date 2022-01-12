@@ -3,4 +3,5 @@
     <string name="message">Happy Birthday to me</string>
     <string name="roll_text_button">Roll</string>
     <string name="count_up_text_button">Count Up</string>
+    <string name="reset_text_button">Reset</string>
 </resources>

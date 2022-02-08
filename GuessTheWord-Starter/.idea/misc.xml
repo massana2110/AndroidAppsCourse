@@ -4,8 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Personal_Projects/AndroidAppsCourse/GuessTheWord-Starter/app/src/main/res/layout/score_fragment.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/Manuel/Documents/SimpleAndroidApps/GuessTheWord-Starter/app/src/main/res/layout/game_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/Manuel/Documents/SimpleAndroidApps/GuessTheWord-Starter/app/src/main/res/layout/game_fragment.xml" value="0.25" />
         <entry key="..\:/Users/Manuel/Documents/SimpleAndroidApps/GuessTheWord-Starter/app/src/main/res/layout/main_activity.xml" value="0.1" />
+        <entry key="..\:/Users/Manuel/Documents/SimpleAndroidApps/GuessTheWord-Starter/app/src/main/res/layout/score_fragment.xml" value="0.1" />
       </map>
     </option>
   </component>
